@@ -1,10 +1,8 @@
 <img src="/public/dogs.png" width="60%" height="60%"/>
 
-## You can see this project running live [here](https://hudsonferraz.github.io/dogs/).
+# Dogs
 
-# Pokedex
-
-A social media for dogs. Instagram-like website with all the basic funcionalities, create account, login, post, delete and comment photos.
+A social media for dogs. Instagram-like website with all the basic funcionalities.
 
 # Getting started
 
