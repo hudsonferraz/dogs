@@ -6,6 +6,8 @@ A social media for dogs. Instagram-like website with all the basic funcionalitie
 
 # Getting started
 
+You can Login with the username: dog and password: dog.
+
 ## Dependencies
 
 ```
